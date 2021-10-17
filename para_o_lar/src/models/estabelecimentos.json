@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "likes": 1,
+        "nome": "Neto Lanches",
+        "categoria": "Lanchonete",
+        "endereço": "Rua Geraldo Abdala",
+        "numero": 100,
+        "bairro": "centro",
+        "cidade": "Tangara",
+        "telefone": "1234-5678",
+        "pagamento": ["Dinheiro","pix"],
+        "delivery": true
+    },
+    {
+        "id": 2,
+        "likes": 1,
+        "nome": "Rose Variedades",
+        "categoria": "Loja",
+        "endereço": "Rua Geraldo Abdala",
+        "numero": 200,
+        "bairro": "centro",
+        "cidade": "Tangara",
+        "telefone": "1234-5678",
+        "pagamento": ["Dinheiro","cartão","pix"],
+        "delivery": false
+    }
+]
